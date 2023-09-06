@@ -1,1 +1,1 @@
-This is a git practice
+Explore is the Best!
